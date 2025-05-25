@@ -71,10 +71,9 @@
   }
   
   .main h1 {
-    font-family: 'Bebas Neue', sans-serif;
     font-size: clamp(24px, 4vw, 48px);
     line-height: 1.2;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     margin-top: -90px;
     text-align: left;
   }
@@ -143,7 +142,7 @@
   
   .bottom-nav a {
     color: white;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-size: 18px;
     text-transform: uppercase;
     font-weight: bold;
@@ -175,7 +174,7 @@
   
   .features h2 {
     color: #ffd101;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-size: 36px;
     margin-bottom: 40px;
   }
@@ -212,7 +211,7 @@
   
   .feature-block p {
     color: white;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-size: 16px;
     font-weight: bold;
     margin: 0;
@@ -239,13 +238,13 @@
   .about-text h2 {
     font-size: 40px;
     color: #ffd101;
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Jost', sans-serif;
     margin-bottom: 20px;
   }
   
   .about-text p {
-    font-size: 18px;
-    font-family: 'Poppins', sans-serif;
+    font-size: 19px;
+    font-family: 'Jost', sans-serif;
     line-height: 1.6;
     color: white;
   }
@@ -287,7 +286,7 @@
   .pricing h2 {
     margin-top: -100px;
     color: #ffd101;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-size: 48px;
     margin-bottom: 60px;
     letter-spacing: 2px;
@@ -431,7 +430,7 @@
   .contact {
     padding: 80px 20px;
     color: white;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Jost', sans-serif;
     margin-top: -110px;
   }
   
@@ -586,3 +585,4 @@
       font-size: 13px;
     }
   }
+  
